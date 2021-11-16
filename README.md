@@ -13,25 +13,15 @@
 > termux-setup-storage
 > cd /sdcard
 > cd download
-> cp -r mel-bot $home
+> cp -r mel-bot1 $home
 > cd
-> cd mel-bot
+> cd mel-bot1
 > bash install.sh
 > node .
 > Scan dah tuh qr 
 ```
 # edit nomer owner
 Dibagian config.js
-
-# Thanks to
-* [`adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/nurutomo)
-* [`MFarelS`](https://github.com/mfarels)
-* [`Caliph`](https://github.com/caliph91)
-
-## Base By
-* [`Caliph`](https://github.com/caliph91/bot-whatsapp)
-* [`Amel`](https://github.com/xmell91/mel-bot)
 
 ## Author 
 * [`Caliph`](https://github.com/caliph91)
