@@ -37,6 +37,18 @@
 > node .
 > Scan dah tuh qr 
 ```
+*UBUNTU/SSH USER
+```
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+apt install imagemagick -y
+git clone https://github.com/ai-man-123/mel-bot1
+cd mel-bot1
+npm install
+npm update
+```
 # edit nomer owner
 Dibagian config.js
 
