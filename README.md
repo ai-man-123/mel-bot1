@@ -26,3 +26,6 @@ Dibagian config.js
 ## Author 
 * [`Caliph`](https://github.com/caliph91)
 * [`Amel`](https://github.com/xmell91)
+* ['ai-man-123'](https://github.com/ai-man-123)
+
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
